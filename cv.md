@@ -1,4 +1,4 @@
-# Yaroslav ATmega
+# Yaroslav Demyanchuk
 
 # About me:
 Electronics Engineer. I have many skills that arose in the process of work and my hobbies:
