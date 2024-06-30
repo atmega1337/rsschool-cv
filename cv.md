@@ -15,7 +15,7 @@ Electronics Engineer. I have many skills that arose in the process of work and m
 # Contacts:
 Discord: @atmega
 
-My site: atmega.ru
+My site: [atmega.ru](https://atmega.ru/)
 
 
 # Skills:
